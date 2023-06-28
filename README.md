@@ -1,2 +1,2 @@
-# Aprenda-libras
-Um sistema como duo lingo para aprender libras
+# Aprenda libras
+Material para aprender **LIBRAS** de forma *divertida*
