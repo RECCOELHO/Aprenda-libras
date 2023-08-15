@@ -1,0 +1,16 @@
+.my-body {
+    background-color: bisque;
+}
+
+
+.imagem-tela-inicial{
+
+        width: 390px;
+        height: 390px;
+        border-radius: 50%;
+        object-fit: contain;
+        box-shadow: 1px 5px 9px rgba(1, 1, 1, 0.1);
+        
+
+}
+
